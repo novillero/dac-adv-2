@@ -21,5 +21,3 @@
 * Посмотреть [запись встречи](https://disk.yandex.ru/i/6adtlhvipQsaWw){target=_blank}.
 
 #### Вебинар №2
-
-Что-то полезное!
