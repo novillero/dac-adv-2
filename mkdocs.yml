@@ -70,7 +70,7 @@ nav: # Структура сайта
       - Домашние задания:
         - Домашнее задание №0: homeworks/homework-0.md
         - Домашнее задание N1: homeworks/homework-1.md
-        - Домашнее задание N2: homeworks/homework-1.md
+        - Домашнее задание N2: homeworks/homework-2.md
 
 extra:
   social: # Ссылки на соц.сети
