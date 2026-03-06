@@ -20,6 +20,8 @@
 * Скачать [презентацию](./original-docs/meeting-1.pdf){target=_blank}.
 * Посмотреть [запись встречи](https://disk.yandex.ru/i/6adtlhvipQsaWw){target=_blank}.
 
+---
+
 #### Вебинар №2 «GIT для технического писателя»
 
 Теоретическая часть:
