@@ -8,7 +8,7 @@ tags:
 
 ## Основное задание: работа с проектом
 
-1. Склонируйте рабочий репозиторий нашего проекта [https://github.com/novillero/dac-advanced](https://github.com/novillero/dac-advanced){target=_blank}. 
+1. Склонируйте рабочий репозиторий нашего проекта [https://github.com/novillero/dac-adv-2](https://github.com/novillero/dac-adv-2){target=_blank}. 
 
 2. Установите параметры пользователя (`user.email` и `user.name`).
 
@@ -21,7 +21,7 @@ tags:
 
 5. Сохраните изменения, добавьте их в индекс, создайте коммит, опубликуйте ветку и отправьте изменения в удалённый репозиторий.
 
-7. Перейдите в [GitHub → Pull requests](https://github.com/novillero/dac-advanced/pulls) и создайте Pull Request из вашей рабочей ветки в ветку `master`.
+7. Перейдите в [GitHub → Pull requests](https://github.com/novillero/dac-adv-2/pulls) и создайте Pull Request из вашей рабочей ветки в ветку `master`.
 
     Не забудьте добавить название и описание пулл реквеста.
 
@@ -75,7 +75,7 @@ tags:
         git push --set-upstream origin название-вашей-ветки
         ```
 
-    12. Откройте репозиторий в GitHub: [https://github.com/novillero/dac-advanced](https://github.com/novillero/dac-advanced){target=_blank}.
+    12. Откройте репозиторий в GitHub: [https://github.com/novillero/dac-adv-2](https://github.com/novillero/dac-adv-2){target=_blank}.
 
     13. Перейдите на вкладку **Pull requests** и нажмите кнопку **New pull request**.
 
