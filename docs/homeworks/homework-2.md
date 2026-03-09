@@ -36,7 +36,7 @@ tags:
     1. Склонируйте репозиторий себе на устройство:
 
         ```
-        git clone https://github.com/novillero/dac-advanced.git
+        git clone https://github.com/novillero/dac-adv-2
         ```
 
     2. Откройте рабочую директорию склонированного репозитория в VS Code.
