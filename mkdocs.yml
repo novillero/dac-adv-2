@@ -71,6 +71,13 @@ nav: # Структура сайта
         - Домашнее задание №0: homeworks/homework-0.md
         - Домашнее задание N1: homeworks/homework-1.md
         - Домашнее задание N2: homeworks/homework-2.md
+        - Домашнее задание №3: homeworks/homework-3.md
+      - Кросс-ревью:
+        - Как проводить ревью: review/how-to.md
+        - Стайлгайд для пошаговых инструкций: review/styleguide.md
+    - Домашний проект:
+      - pet-project/index.md
+      - Настройка MkDocs: pet-project/mkdocs-setup.md
 
 extra:
   social: # Ссылки на соц.сети
