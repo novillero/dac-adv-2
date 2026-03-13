@@ -65,6 +65,7 @@ nav: # Структура сайта
     - Материалы курса:
       - index.md
       - 'Markdown: базовый синтаксис': markdown.md
+      - 'Markdown: расширенный синтаксис': markdown-extensions.md
       - Тех.минимум по git: git-for-tech-writer.md
       - Вебинары: meetings.md
       - Домашние задания:
