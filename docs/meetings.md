@@ -43,6 +43,8 @@
 * Скачать [презентацию](./original-docs/meeting-2.pdf){target=_blank}.
 * Посмотреть [запись встречи](https://disk.yandex.ru/i/FdLxhkzwOsL__Q){target=_blank}.
 
+---
+
 #### Вебинар №3 «Создание домашнего док.проекта»
 
 1. Установка генератора статических сайтов MkDocs.
@@ -55,3 +57,23 @@
 
 * Прочитать [статью](./pet-project/mkdocs-setup.md).
 * Посмотреть [запись встречи](https://disk.yandex.ru/i/7wXEZRhmvPmtZA){target=_blank}.
+
+---
+
+#### Вебинар №4 «Публикация и развитие док.проекта»
+
+1. Работа с плагинами.
+2. Публикация проекта на GitHub Pages.
+3. Настойка автоматической публикации с помощью GitHub Actions.
+
+---
+
+* Прочитать статьи:
+
+    * [Работа с плагинами](./pet-project/mkdocs-plugins.md).
+    * [Публикация проекта](./pet-project/mkdocs-publication.md)
+    * [Расширенный синтаксис Markdown](./markdown-extensions.md)
+
+* Посмотреть [запись встречи](https://disk.yandex.ru/i/_7XCjwSo_HpXog){target=_blank}.
+
+---
